@@ -2955,14 +2955,14 @@ const heading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
     children: "Namaste React"
 }, void 0, false, {
     fileName: "app.js",
-    lineNumber: 11,
+    lineNumber: 9,
     columnNumber: 5
 }, undefined);
 const Title = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
         children: "Namaste react functional title\uD83D\uDE80\uD83D\uDE80"
     }, void 0, false, {
         fileName: "app.js",
-        lineNumber: 15,
+        lineNumber: 13,
         columnNumber: 5
     }, undefined);
 _c = Title;
@@ -2972,20 +2972,20 @@ const HeadingComponent = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Title, {}, void 0, false, {
                 fileName: "app.js",
-                lineNumber: 25,
+                lineNumber: 23,
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                 children: "Functional Component"
             }, void 0, false, {
                 fileName: "app.js",
-                lineNumber: 26,
+                lineNumber: 24,
                 columnNumber: 9
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "app.js",
-        lineNumber: 24,
+        lineNumber: 22,
         columnNumber: 5
     }, undefined);
 _c1 = HeadingComponent;
@@ -2993,7 +2993,7 @@ console.log(HeadingComponent);
 console.log(heading);
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
     fileName: "app.js",
-    lineNumber: 31,
+    lineNumber: 29,
     columnNumber: 13
 }, undefined));
 var _c, _c1;

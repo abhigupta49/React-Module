@@ -1,5 +1,3 @@
-
-
 import React from "react";
 import ReactDOM  from "react-dom/client";
 
@@ -28,4 +26,4 @@ const HeadingComponent = () => (
 )
 console.log(HeadingComponent)
 console.log(heading)
-root.render(<HeadingComponent />)
+root.render(<HeadingComponent />) 
